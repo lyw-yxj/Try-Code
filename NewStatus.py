@@ -12,6 +12,17 @@
 ## 创建空元组：empty_tuple = ()
 
 
+
+
+## 创建单元素元组：single_tuple = (1,)（注意逗号）
+
+
+
+##
+##t = 1,2,3
+##print(t)
+##print(type(t))
+
 ##
 ##t = ()
 ##print(t)
